@@ -1,3 +1,4 @@
+// preceeding comment
 mgmt_ip: 10.0.1.111
 vlans:
   red:
